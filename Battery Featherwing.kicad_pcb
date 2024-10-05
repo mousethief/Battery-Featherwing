@@ -8923,7 +8923,7 @@
 		)
 		(fp_arc
 			(start -1.52 -3.81)
-			(mid -0.702828 -5.782827)
+			(mid -0.702828 -5.782828)
 			(end 1.27 -6.6)
 			(stroke
 				(width 0.05)
@@ -11119,6 +11119,18 @@
 				)
 			)
 			(uuid "02a6b75b-a33f-4d8d-88fc-1fe672901691")
+		)
+	)
+	(gr_text "Bad Mink Things"
+		(at 110.109 77.089 0)
+		(layer "F.SilkS")
+		(uuid "4832ad03-ff20-4455-a0d2-2a6da384ba3b")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1875)
+			)
+			(justify left bottom)
 		)
 	)
 	(segment
